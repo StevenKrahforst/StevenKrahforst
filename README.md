@@ -42,13 +42,6 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
     </a>
 </p>
 
-<h4>🖥 Languages (I don't use anymore)</h4>
-<p align="left">
-    <a href="https://www.php.net" target="_blank">
-        <img src="https://raw.githubusercontent.com/StevenKrahforst/StevenKrahforst/master/icons/rusphpt.svg" alt="php" width="40" height="40" />
-    </a>
-</p>
-
 <h4>🖥 Languages (I learn)</h4>
 <p align="left">
     <a href="https://www.rust-lang.org" target="_blank">
@@ -56,6 +49,13 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
     </a>
     <a href="https://golang.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/StevenKrahforst/StevenKrahforst/master/icons/go.svg" alt="rust" width="40" height="40" />
+    </a>
+</p>
+
+<h4>🖥 Languages (I don't use anymore)</h4>
+<p align="left">
+    <a href="https://www.php.net" target="_blank">
+        <img src="https://raw.githubusercontent.com/StevenKrahforst/StevenKrahforst/master/icons/php.svg" alt="php" width="40" height="40" />
     </a>
 </p>
 
